@@ -33,7 +33,7 @@ public class AIControl : MonoBehaviour {
         {
             int i = Random.Range(0, goalLocations.Length);
             agent.SetDestination(goalLocations[i].transform.position);
-
+            
         }
     }
 }
