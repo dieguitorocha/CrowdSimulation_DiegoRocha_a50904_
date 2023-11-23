@@ -270,8 +270,9 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   swimLimits: {x: 5, y: 5, z: 5}
-  minSpeed: 1.36
-  maxSpeed: 2.91
+  goalPos: {x: 0, y: 0, z: 0}
+  minSpeed: 0.48
+  maxSpeed: 1.15
   neighbourDistance: 10
   rotationSpeed: 2.63
 --- !u!4 &284958269
